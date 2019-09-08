@@ -10,7 +10,7 @@
 
 <p>If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.</p>
 
-<p>This EULA agreement shall apply only to the Software supplied by <span class="company_name">Stavros Technologies Limited</span> herewith regardless of whether other software is referred to or described herein. The terms also apply to any <span class="company_name">Stavros Technologies Limited</span> updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by <a href="https://www.eulatemplate.com">EULA Template</a> for <span class="app_name">UZA POS</span>.
+<p>This EULA agreement shall apply only to the Software supplied by <span class="company_name">Stavros Technologies Limited</span> herewith regardless of whether other software is referred to or described herein. The terms also apply to any <span class="company_name">Stavros Technologies Limited</span> updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
 
 <h3>License Grant</h3>
 
@@ -42,4 +42,4 @@
 
 <h3>Governing Law</h3>
 
-<p>This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of <span class="country">ke</span>.</p>
+<p>This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of <span class="country">Kenya</span>.</p>
